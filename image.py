@@ -1,9 +1,3 @@
-# Installing Theano
-# Installing Tensorflow
-# pip install tensorflow
-
-# Installing Keras
-# pip install --upgrade keras
 
 # Part 1 - Building the CNN
 
